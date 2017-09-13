@@ -1,0 +1,6 @@
+hash: 2da5e4b62870902c9237943028ffb54c0774feb4017e16797ee234bb57bad58c
+updated: 2017-09-13T16:40:15.72608971-04:00
+imports:
+- name: github.com/apex/log
+  version: 0296d6eb16bb28f8a0c55668affcf4876dc269be
+testImports: []

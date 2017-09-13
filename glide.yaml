@@ -1,0 +1,4 @@
+package: prefixed
+import:
+- package: github.com/apex/log
+  version: ~1.0.0
